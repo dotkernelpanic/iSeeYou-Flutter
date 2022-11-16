@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "236228510764",
+    "project_id": "iseeyou-e1608",
+    "storage_bucket": "iseeyou-e1608.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236228510764:android:afbed48cf3ca4a10b77d89",
+        "android_client_info": {
+          "package_name": "com.example.iseeyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236228510764-a5jl71kf6f1vfoiss3i5sk2prt8s1l3n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iseeyou",
+            "certificate_hash": "ce6b7ba913c775a392993a52cada800de48b87d2"
+          }
+        },
+        {
+          "client_id": "236228510764-42a6rhkca04huuevvdu4a43c7hg5ooeq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0y4HARYooAauZgi-bG78RgIDQ7bPOkqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236228510764-42a6rhkca04huuevvdu4a43c7hg5ooeq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
